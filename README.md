@@ -1,7 +1,7 @@
 # Music-Player with JavaScript
 
 Function
-1) Random Song
-2) Previous Song
-3) Next Song
-4) Repeat Song
+1) hees dhextaal ah
+2) heestii hore
+3) heesta badal
+4) ku soo cesho heesta
